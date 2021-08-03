@@ -61,7 +61,7 @@
       <p><img align="center" src="https://github-readme-stats-asaifee-kmindz.vercel.app/api?username=asaifee-kmindz&show_icons=true&theme=radical&locale=en&count_private=true&include_all_commits=true" alt="Adnan Saifee's GitHub Stats" /></p>
     </td>
     <td>
-      <p><img align="center" src="https://github-readme-streak-stats-ak.herokuapp.com/?user=asaifee-kmindz&theme=neon-palenight" alt="Adnan Saifee's Streak Stats" /></p>
+      <p><img align="center" src="https://github-readme-streak-stats-ak.herokuapp.com/?user=asaifee-kmindz&theme=neon-palenight&background=000000" alt="Adnan Saifee's Streak Stats" /></p>
     </td>
   </tr>
 </table>
